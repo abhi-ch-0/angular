@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "tsc",
-    "start": "npm run build && node dist/main.js"
+    "start": "npm run build && node server.js"
   },
   "devDependencies": {
     "typescript": "^4.0.0"
